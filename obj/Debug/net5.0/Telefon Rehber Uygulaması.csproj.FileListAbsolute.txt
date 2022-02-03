@@ -1,0 +1,16 @@
+C:\Users\krctu\Telefon Rehber Uygulaması\bin\Debug\net5.0\Telefon Rehber Uygulaması.exe
+C:\Users\krctu\Telefon Rehber Uygulaması\bin\Debug\net5.0\Telefon Rehber Uygulaması.deps.json
+C:\Users\krctu\Telefon Rehber Uygulaması\bin\Debug\net5.0\Telefon Rehber Uygulaması.runtimeconfig.json
+C:\Users\krctu\Telefon Rehber Uygulaması\bin\Debug\net5.0\Telefon Rehber Uygulaması.runtimeconfig.dev.json
+C:\Users\krctu\Telefon Rehber Uygulaması\bin\Debug\net5.0\Telefon Rehber Uygulaması.dll
+C:\Users\krctu\Telefon Rehber Uygulaması\bin\Debug\net5.0\ref\Telefon Rehber Uygulaması.dll
+C:\Users\krctu\Telefon Rehber Uygulaması\bin\Debug\net5.0\Telefon Rehber Uygulaması.pdb
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\Telefon Rehber Uygulaması.csproj.AssemblyReference.cache
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\Telefon Rehber Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\Telefon Rehber Uygulaması.AssemblyInfoInputs.cache
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\Telefon Rehber Uygulaması.AssemblyInfo.cs
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\Telefon Rehber Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\Telefon Rehber Uygulaması.dll
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\ref\Telefon Rehber Uygulaması.dll
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\Telefon Rehber Uygulaması.pdb
+C:\Users\krctu\Telefon Rehber Uygulaması\obj\Debug\net5.0\Telefon Rehber Uygulaması.genruntimeconfig.cache
